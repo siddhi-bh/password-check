@@ -20,6 +20,8 @@ This was built as part of my cybersecurity learning to explore user input valida
 
 ### ▶️ CLI Version:
 ```bash
-python password_tester.py
-OR
 python password_checker.py
+
+### ▶️ GUI Version:
+```bash
+python password_tester.py
