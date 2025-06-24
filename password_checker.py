@@ -1,3 +1,5 @@
+#CLI version
+
 import re
 
 def check_password_strength(password):
